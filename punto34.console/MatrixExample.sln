@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punto34.console", "punto34.console\punto34.console.csproj", "{3AB92FF8-EAAC-4493-B876-7B91F8DF7562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figura", "Figura\Figura.csproj", "{EA110DC8-6DCB-4C2C-B0CD-E5F9B1F55896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB92FF8-EAAC-4493-B876-7B91F8DF7562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB92FF8-EAAC-4493-B876-7B91F8DF7562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB92FF8-EAAC-4493-B876-7B91F8DF7562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB92FF8-EAAC-4493-B876-7B91F8DF7562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA110DC8-6DCB-4C2C-B0CD-E5F9B1F55896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA110DC8-6DCB-4C2C-B0CD-E5F9B1F55896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA110DC8-6DCB-4C2C-B0CD-E5F9B1F55896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA110DC8-6DCB-4C2C-B0CD-E5F9B1F55896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E996203-CEDA-48E9-A14D-87F17E36EF64}
+	EndGlobalSection
+EndGlobal
